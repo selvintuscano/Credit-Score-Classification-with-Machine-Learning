@@ -28,3 +28,14 @@ A Random Forest Classifier is employed to train the credit score classification 
    ```bash
    git clone https://github.com/your-username/credit-score-classification.git
    cd credit-score-classification
+
+## Viewing Plots
+
+To view the interactive plots and visualizations in this project, it is recommended to use Google Colab. Some features may not render correctly in a static environment like Jupyter Notebook.
+
+### How to Use Google Colab
+
+1. Open the notebook in Google Colab by clicking on the "Open in Colab" badge.
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your_notebook_path.ipynb)
+
+2. Run the notebook in Colab.
